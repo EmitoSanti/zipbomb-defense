@@ -1,4 +1,5 @@
-# Desbordamiento de buffer
+# Desbordamiento de buffer 
+  Y posible "Denegación de servicio"
 
 # # Primer paso: no realizar esta actividad hasta proponer una linea de defenza.
 
