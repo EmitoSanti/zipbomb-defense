@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Desbordamiento de buffer, caso practico/didactico
     Caso practico y didactico: cuando un servidor descomprime un archivo "zip" 
     dentro del entorno del mismo servidor para realizar "x" tarea, 
@@ -10,10 +9,6 @@
 # # # Prerequisitos, tener instalado:
     * mongodb
     * nodejs
-=======
-# Desbordamiento de buffer 
-  Y posible "Denegación de servicio"
->>>>>>> e6386823f6db3429d857bc5e898e12c68ef2fb1d
 
 # # Primer paso: no realizar esta actividad hasta proponer una linea de defenza.
 
