@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desbordamiento de buffer, caso practico/didactico
     Caso practico y didactico: cuando un servidor descomprime un archivo "zip" 
     dentro del entorno del mismo servidor para realizar "x" tarea, 
@@ -9,6 +10,10 @@
 # # # Prerequisitos, tener instalado:
     * mongodb
     * nodejs
+=======
+# Desbordamiento de buffer 
+  Y posible "Denegación de servicio"
+>>>>>>> e6386823f6db3429d857bc5e898e12c68ef2fb1d
 
 # # Primer paso: no realizar esta actividad hasta proponer una linea de defenza.
 
@@ -31,4 +36,4 @@
     * si no hay seguridad y el zip es de tipo bomb colapsa todo
     * si hay seguridad y la descompresión no comienza
 
-Fuentes: [https://www.npmjs.com/]
+Fuentes: [https://www.npmjs.com/] [https://ed.team/blog/como-subir-archivos-al-servidor-con-nodejs]
