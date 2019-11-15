@@ -13,6 +13,10 @@
 
 ## Primer paso: no realizar esta actividad hasta proponer una linea de defenza.
 
+    Posible modo para parchear esta vulnerabilidad esta en este articulo: 
+    [https://dev.to/bobbyiliev/what-is-a-fork-bomb-in-linux-and-how-to-stop-it-4k1j]
+    (Ahora estoy sin tiempo no lo puedo implementar).
+
 ## Segundo paso en la terminar apuntando al directorio donde esta app.js ejecutar: 
    * npm install
    * npm install unzipper
